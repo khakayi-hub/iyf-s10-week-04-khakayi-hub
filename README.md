@@ -28,10 +28,12 @@ The project includes console-based tools for calculations, string and array mani
    Run `npm install` then `npm start`
 
 ## Lessons Learned
--Problem solving.
+**Problem solving.**
+
 Implemented FizzBuzz,Triangle patterns and largest numbers.
 
--JavaScript fundamentals
+**JavaScript fundamentals**
+
 Practiced loops,functions,arrays and objects extensively.
 
 
