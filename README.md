@@ -3,7 +3,7 @@
 ## Author
 - **Name:** Mitchelle Khakayi
 - **GitHub:** khakayi-hub(https://github.com/khakayi-hub/khakayi-hub)
-- **Date:** 03 19, 2026
+- **Date:** 03/19, 2026
 
 ## Project Description
 Built a set of JavaScript exercises and an interactive grade tracking system to practice programming fundamentals, problem-solving, and object-oriented programming.
