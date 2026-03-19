@@ -359,3 +359,27 @@ console.log(gradeTracker.getSubjectAverage("math"));       // 75.67
 console.log(gradeTracker.getTopStudent());                 // Alice
 console.log(gradeTracker.getStrugglingStudents());         // [Charlie]
 console.log(gradeTracker.generateReportCard("Alice"));
+
+function reverseStringLoop(str) {
+    let reversed = "";
+    for (let i = str.length - 1; i >= 0; i--) {
+        reversed += str[i];
+    }
+    return reversed;
+}
+
+console.log(reverseStringLoop("hello")); // "olleh"
+
+function findLargestLoop(arr) {
+    if (arr.length === 0) return null;
+    let largest = arr[0];
+    for (let i = 1; i < arr.length; i++) {
+        if (arr[i] > largest) {
+            largest = arr[i];
+        }
+    }
+    return largest;
+}
+
+console.log(findLargestLoop(numbers)); // 9
+
