@@ -2,11 +2,12 @@
 
 ## Author
 - **Name:** Mitchelle Khakayi
-- **GitHub:** khakayi-hub(https://github.com/MaisoriKitayama)
-- **Date:** Month Day, Year
+- **GitHub:** khakayi-hub(https://github.com/khakayi-hub/khakayi-hub)
+- **Date:** 03 19, 2026
 
 ## Project Description
-Brief description of what you built and why.
+Built a set of JavaScript exercises and an interactive grade tracking system to practice programming fundamentals, problem-solving, and object-oriented programming.
+The project includes console-based tools for calculations, string and array manipulations, and managing student grades.
 
 ## Technologies Used
 - HTML5
@@ -15,9 +16,9 @@ Brief description of what you built and why.
 - (list all technologies)
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+-String.
+-Loop .
+-Array objects.
 
 ## How to Run
 1. Clone this repository
@@ -26,13 +27,15 @@ Brief description of what you built and why.
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
+-Problem solving.
+Implemented FizzBuzz,Triangle patterns and largest numbers.
+
+-JavaScript fundamentals
+Practiced loops,functions,arrays and objects extensively.
+
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
+-Array manipulation
+-Debugging.
 
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
-
-## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+Add commit
