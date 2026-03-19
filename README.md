@@ -11,13 +11,14 @@ The project includes console-based tools for calculations, string and array mani
 
 ## Technologies Used
 - HTML5
-- CSS3
 - JavaScript
-- (list all technologies)
+
 
 ## Features
 -String.
+
 -Loop .
+
 -Array objects.
 
 ## How to Run
