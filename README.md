@@ -39,6 +39,7 @@ Practiced loops,functions,arrays and objects extensively.
 
 ## Challenges Faced
 -Array manipulation
+
 -Debugging.
 
 Add commit
